@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GroupieRecyclerView</string>
+    <string name="nama_mobil">Nama Mobil</string>
+    <string name="gambar_mobil">Gambar Mobil</string>
+</resources>
